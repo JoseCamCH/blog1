@@ -1,2 +1,4 @@
 archivo de 
 texto privera version
+esta es una linea verson 2
+nueva linea para verion 3
